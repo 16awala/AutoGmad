@@ -10,8 +10,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-#Irrelevant Visual Studio build files
+#Irrelevant Visual Studio files
 [Bb]in/*
+App.config
+AutoGmad.sln
 
 #Include build
 ![Bb]/AutoGmad.exe
