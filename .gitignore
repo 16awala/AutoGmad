@@ -10,6 +10,12 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+#Irrelevant Visual Studio build files
+[Bb]in/*
+
+#Include build
+![Bb]/AutoGmad.exe
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
